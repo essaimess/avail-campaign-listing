@@ -1,0 +1,8 @@
+{
+  "name": "peuzei",
+  "logo": "https://ibb.co/VwgqgKD",
+  "rpc_url": "http://194.163.173.200:9944",
+  "explorer_url": "http://194.163.173.200:4000",
+  "metrics_endpoint": "http://194.163.173.200:9615/metrics",
+  "id": "b381f49c-6ddf-4b98-bf12-c9f479e1111b"
+}
